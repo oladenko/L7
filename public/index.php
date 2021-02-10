@@ -12,7 +12,8 @@ require_once '../src/Model/Tag.php';
 
 //$post = Post::find(10);
 //$post->tags()->attach([4,3,2]);
-
+//$post = Post::find();
+//$post->delete();
 
 
 
